@@ -11,4 +11,4 @@ The website serves as a platform to present my profile in a professional way, de
 - Responsive layout for desktop and mobile devices.
 
 ### How to View:
-1. Clone the repository 
+1. Clone the repository .
